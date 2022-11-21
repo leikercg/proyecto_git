@@ -1,0 +1,1 @@
+creo la primera linea en el archivo_b.txt
